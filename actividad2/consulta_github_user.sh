@@ -23,4 +23,4 @@ mkdir -p $LOG_DIR
 echo "Hola $GITHUB_USER. User ID: $ID. Cuenta fue creada el: $CREATED_AT." > $LOG_FILE
 
 # Crear un cronjob para que el script se ejecute cada 5 minutos
-(crontab -l ; echo "*/5 * * * * /ruta/al/script.sh") | crontab -
+(crontab -l ; echo "*/5 * * * * /bin/bash /c/Users/alber/OneDrive/Escritorio/cys/sopes/actividad2/consulta_github_user.sh") | crontab -
