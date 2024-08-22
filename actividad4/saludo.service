@@ -1,0 +1,10 @@
+[Unit]
+Description=Servicio que imprime un saludo y la fecha actual cada segundo
+After=network.target
+
+[Service]
+ExecStart=/ruta/completa/a/tu/script/saludo.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
