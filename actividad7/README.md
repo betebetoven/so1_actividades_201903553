@@ -1,35 +1,35 @@
 
-# Completely Fair Scheduler (CFS) Report
+# Reporte del Completely Fair Scheduler (CFS)
 
-**Course:** Sistemas Operativos 1  
-**Institution:** Universidad de San Carlos de Guatemala  
-**Student:** Alberto Josué Hernández Armas  
+**Curso:** Sistemas Operativos 1  
+**Institución:** Universidad de San Carlos de Guatemala  
+**Nombre:** Alberto Josué Hernández Armas  
 **Carnet:** 201903553  
 
-## Overview
+## Resumen
 
-This document provides a detailed explanation of the Completely Fair Scheduler (CFS), the default scheduler used in Linux systems. The report covers the following main sections:
+Este documento proporciona una explicación detallada del Completely Fair Scheduler (CFS), el planificador predeterminado en los sistemas Linux. El reporte cubre las siguientes secciones principales:
 
-- **Introduction**: An overview of CFS and its purpose.
-- **Key Features of CFS**: Highlights the primary characteristics that differentiate CFS from other scheduling algorithms, including fair CPU distribution, use of a red-black tree structure, virtual time management, and handling of relative priorities.
-- **Functionality of CFS**: Explanation of how CFS assigns execution times, manages context switching, selects processes, and enforces fair load distribution based on process weights.
-- **Conclusion**: Summary of CFS's impact on system performance and efficiency.
+- **Introducción**: Un panorama general sobre CFS y su propósito.
+- **Características Principales de CFS**: Destaca las características clave que diferencian a CFS de otros algoritmos de planificación, como la distribución justa de CPU, el uso de un árbol rojinegro, la gestión de tiempo virtual y el manejo de prioridades relativas.
+- **Funcionamiento de CFS**: Explicación de cómo CFS asigna tiempos de ejecución, maneja cambios de contexto, selecciona procesos y garantiza una carga justa basada en el peso de cada proceso.
+- **Conclusión**: Resumen del impacto de CFS en el rendimiento y eficiencia del sistema.
 
-## Document Structure
+## Estructura del Documento
 
-The document is organized with clear sections and includes examples of how CFS handles processes to maximize CPU efficiency while ensuring fair time allocation.
+El documento está organizado en secciones claras e incluye ejemplos de cómo CFS gestiona procesos para maximizar la eficiencia de la CPU, asegurando al mismo tiempo una asignación justa del tiempo.
 
-## Usage
+## Uso
 
-The report is available as a PDF file, which can be submitted directly for academic purposes. Make sure to review the content to gain an understanding of CFS's role in Linux.
+El reporte está disponible en formato PDF y puede ser entregado directamente para fines académicos. Asegúrate de revisar el contenido para comprender el rol de CFS en Linux.
 
-## File
+## Archivo
 
-The generated PDF can be downloaded from the file:
+El PDF generado puede descargarse desde el siguiente enlace:
 
-- [Completely Fair Scheduler (CFS) Report PDF](Completely_Fair_Scheduler_CFS_USAC_Alberto_Hernandez.pdf)
+- [Reporte en PDF del Completely Fair Scheduler (CFS)](Completely_Fair_Scheduler_CFS_USAC_Alberto_Hernandez.pdf)
 
-## Author
+## Autor
 
 **Alberto Josué Hernández Armas**  
 Carnet: 201903553
